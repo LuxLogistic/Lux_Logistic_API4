@@ -33,12 +33,6 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 |  Team Member  |   Nicolli Paparazo    |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicolli-paparazo-b6a360261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/nicollipaparazo)          |
 
 # Objetivo do Projeto
-Criar base de dados relacional e Dashboard que permita:
-* (I) criação e modelagem de um banco de dados em SQL
-
-* (II) criação de um visualizador de indicadores em BI
-
- * (III) aplicação do método de transportes para otimização da distribuição
  
 
 
