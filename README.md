@@ -16,7 +16,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 
 # Projeto (API) 
-
+Este projeto tem como objetivo a análise. identificação e compreenção da eficiência operacional de terminais portuários ao longo de um período significativo, com foco específico na movimentação de granéis.
 
 
 
@@ -33,7 +33,13 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 |  Team Member  |   Nicolli Paparazo    |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicolli-paparazo-b6a360261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/nicollipaparazo)          |
 
 # Objetivo do Projeto
- 
+Criar base de dados relacional e Dashboard que permita a vizualização de:
+
+* (i) Variação da prancha média operacional de carregamento de granéis (t/h) mensalmente ao longo dos anos de 2014 a 2023, desenvolvendo um modelo de projeção com base em tendência
+
+* (ii) Avaliação da distribuição estatística dos tempos portuários de operação no berço para carregamento de granéis
+
+* (iii) Elaboração de um ranking de eficiência para os 10 principais terminais de movimentação de graneis com base em quantidade de berços e prancha média operacional
 
 
 ## Tecnologias Utilizadas
@@ -68,13 +74,15 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 # Requisitos
 
-* Requisitos funcionais 
+* Requisitos funcionais
+  
+> Construção de uma série histórica em formato acessível que agregue os dados de movimentação de 2014 a 2023
+> 
+>Interface em BI para avaliação de indicadores portuários (tempos de processamento e espera, produção dos shiploaders em termos de processamento por hora)
 >
+>Modelo de projeção de tendência da produtividade dos shiploaders 
 >
->
->
->
->
+>Rankeamento dos portos por meio da aplicação do DEA
 >
 
  
