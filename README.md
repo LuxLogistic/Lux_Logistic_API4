@@ -17,11 +17,9 @@ API 4° Semestre - Logística Noturno
 :small_blue_diamond: [Equipe](#equipe)  
 :small_blue_diamond: [Descrição do Projeto](#descrição-do-projeto)  
 :small_blue_diamond: [Backlog do Produto](#backlog-do-produto)  
-:small_blue_diamond: [Sprints](#Sprints)  
-:small_blue_diamond: [Burndown](#Burndown)  
-:small_blue_diamond: [Backlog do produto](#Backlog-do-produto)  
-:small_blue_diamond: [Funcionalidades e registros (vídeos e apresentações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)  
-:small_blue_diamond: [Competências desenvolvidas](#competências-desenvolvidas)  
+:small_blue_diamond: [Organização e Metodologia](#organização-e-metodologia)  
+:small_blue_diamond: [Resultado e Produto](#resultado-e-produto)  
+:small_blue_diamond: [Tecnologias Utilizadas](#tecnologias-utilizadas)  
 
 ## Aprendizado por Projeto Integrado (API) 
 A Aprendizagem por Projetos Integrados (API) é uma metodologia de ensino em implantação na Fatec São José dos Campos, desenhada para aprimorar o aprendizado prático e desenvolver habilidades essenciais nos estudantes. Baseada nos princípios ágeis do framework **SCRUM**, a API foca na criação de um ambiente de aprendizado onde a **Proatividade**, **Autonomia**, **Colaboração** e **Entrega de Resultados** são estimulados e fortalecidos.
@@ -41,22 +39,22 @@ A API busca criar uma experiência educacional dinâmica e envolvente, promovend
 
 |            							| Aluno         | Função | LinkedIn & GitHub          		
 | -------------------------------------------- | ---------------- | ---------------- |  ----------------
-| <img src = "./imagens_git/jessica.jpeg" width="50" >|__Rebeca Abreu__  | *Product Owner*  | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rebeca-fonseca-0615a1277) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/rebecafonsec4)
-| <img src = "./imagens_git/giovani.png" width="60" >|__Jessica Tinoco__| *Scrum Master* | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-tinoco-534589235/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/jehbernardo)
-| <img src = "./imagens_git/andre.jfif" width="60" >|__João Pedro__  | *Developer Team*  | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-cardoso-de-oliveira-a1a64a1a1) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoCardoli)
-| <img src = "./imagens_git/larissa.png" width="60" >|__Elaine Gonçalves__  | *Developer Team* | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elaine-gon%C3%A7alves-41111b253) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ElaineGoncalves1)
-| <img src = "./imagens_git/manu.png" width="60" >|__Joyce Prudêncio__ | *Developer Team* | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-prudencio) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JPrudencio)
-| <img src = "./imagens_git/manu.png" width="60" >|__Vitor Ávila__ | *Developer Team* | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-%C3%A1vila-16418339) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/vitor-avila-github/vitor-avila-github)
-| <img src = "./imagens_git/manu.png" width="60" >|__Vitor Hugo__ | *Developer Team* | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/vitor-hugo-caetano-das-merc%C3%AAs-195823137) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/vhsjc)
-| <img src = "./imagens_git/manu.png" width="60" >|__Nicolli Paparazo__ | *Developer Team* | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicolli-paparazo-b6a360261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/nicollipaparazo)
+| <img src = "./imagens_git/photo-rebeca.png" width="60" >|__Rebeca Abreu__  | *Product Owner*  | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rebeca-fonseca-0615a1277) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/rebecafonsec4)
+| <img src = "./imagens_git/photo-jess.png" width="60" >|__Jessica Tinoco__| *Scrum Master* | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-tinoco-534589235/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/jehbernardo)
+| <img src = "./imagens_git/photo-joao.png" width="60" >|__João Pedro__  | *Developer Team*  | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-cardoso-de-oliveira-a1a64a1a1) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoCardoli)
+| <img src = "./imagens_git/photo-laine.png" width="60" >|__Elaine Gonçalves__  | *Developer Team* | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elaine-gon%C3%A7alves-41111b253) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ElaineGoncalves1)
+| <img src = "./imagens_git/photo-joy.png" width="60" >|__Joyce Prudêncio__ | *Developer Team* | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-prudencio) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JPrudencio)
+| <img src = "./imagens_git/photo-avila.png" width="60" >|__Vitor Ávila__ | *Developer Team* | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-%C3%A1vila-16418339) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/vitor-avila-github/vitor-avila-github)
+| <img src = "./imagens_git/photo-hugo.png" width="60" >|__Vitor Hugo__ | *Developer Team* | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/vitor-hugo-caetano-das-merc%C3%AAs-195823137) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/vhsjc)
+| <img src = "./imagens_git/photo-nicoli.png" width="60" >|__Nicolli Paparazo__ | *Developer Team* | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicolli-paparazo-b6a360261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/nicollipaparazo)
 
-<p align="right">(<a href="#top">voltar ao topo</a>)</p>
+<p align="right">(<a href="#sumário">voltar ao topo</a>)</p>
 
 ## Descrição do Projeto
 
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/logogetlog.png" width="100%" height="100%">
+      <img src="./imagens_git/apresentacao_API4-imagens-3.jpg" width="100%" height="100%">
 <p align="center">
 
 > A Análise do Sistema Portuário e Projeção da Produtividade dos Shiploaders tem como objetivo investigar a produtividade de carregadores de navios (shiploaders) e fornecer uma ferramenta que auxilie na análise para tomada de decisões estratégicas
@@ -77,10 +75,10 @@ A API busca criar uma experiência educacional dinâmica e envolvente, promovend
 
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/logogetlog.png" width="100%" height="100%">
+      <img src="./imagens_git/apresentacao_API4-imagens-5.jpg" width="100%" height="100%">
 <p align="center">
 
-<p align="right">(<a href="#top">voltar ao topo</a>)</p>
+<p align="right">(<a href="#sumário">voltar ao topo</a>)</p>
 
 ## Backlog do Produto
 
@@ -126,7 +124,7 @@ Principais itens do backlog:
 | 18 Out – 08 Nov | Protótipo do Painel em BI com principais métricas    |
 | 08 Nov – 29 Nov | Modelo de Ranking de Eficiência usando DEA           |
 
-<p align="right">(<a href="#top">voltar ao topo</a>)</p>
+<p align="right">(<a href="#sumário">voltar ao topo</a>)</p>
 
 ## Organização e Metodologia
 
@@ -134,7 +132,7 @@ Principais itens do backlog:
 
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/logogetlog.png" width="100%" height="100%">
+      <img src="./imagens_git/apresentacao_API4-imagens-4.jpg" width="100%" height="100%">
 <p align="center">
 
 > Este projeto foi realizado conforme a metodologia ágil, utilizando o software Jira para a organização e acompanhamento das tarefas de cada membro da equipe; durante cada sprint, uma série de atividades eram designadas, com data de início e data limite, possibilitando a análise do tempo gasto em cada uma delas, e, do desempenho dos integrantes.
@@ -155,15 +153,13 @@ Sprint | Previsão | Status| Histórico|
 >Backlog
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/backlogsprint1.png" width="70%" height="30%">
+      <img src="./imagens_git/backlog-sprint1.png" width="70%" height="30%">
 <p align="center">
   
 >Burndown Chart
-
-_Por Tempo_
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/burndowm0102.PNG"  width="80%" height="40%">
+      <img src="./imagens_git/burndown-sprint1.png"  width="80%" height="40%">
 <p align="center">
  
 </details>
@@ -174,15 +170,13 @@ _Por Tempo_
 >Backlog
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/backlogsprint1.png" width="70%" height="30%">
+      <img src="./imagens_git/backlog-sprint2.png" width="70%" height="30%">
 <p align="center">
   
 >Burndown Chart
-
-_Por Tempo_
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/burndowm0102.PNG"  width="80%" height="40%">
+      <img src="./imagens_git/burndown-sprint2.png"  width="80%" height="40%">
 <p align="center">
  
 </details>
@@ -193,15 +187,13 @@ _Por Tempo_
 >Backlog
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/backlogsprint1.png" width="70%" height="30%">
+      <img src="./imagens_git/backlog-sprint3.png" width="70%" height="30%">
 <p align="center">
   
 >Burndown Chart
-
-_Por Tempo_
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/burndowm0102.PNG"  width="80%" height="40%">
+      <img src="./imagens_git/burndown-sprint3.png"  width="80%" height="40%">
 <p align="center">
  
 </details>
@@ -232,7 +224,7 @@ _Por Tempo_
 </p>
  
 <p align="center">    
- <a href="https://www.python.org/"><img src="./imagens_git/Python.svg" width="8%" height="8%"/></a>
+ <a href="https://www.python.org/"><img src="./imagens_git/logo-python.png" width="8%" height="8%"/></a>
  <a href="https://jupyter.org/"><img src="./imagens_git/Jupyter.svg" width="15%" height="15%"/></a>
 </p>
 
@@ -241,7 +233,7 @@ _Por Tempo_
  <a href="https://posit.co/download/rstudio-desktop/"><img src="./imagens_git/RStudio.svg" width="15%" height="15%"/></a>
 </p>
 
-<p align="right">(<a href="#top">voltar ao topo</a>)</p>
+<p align="right">(<a href="#sumário">voltar ao topo</a>)</p>
 
 
 
