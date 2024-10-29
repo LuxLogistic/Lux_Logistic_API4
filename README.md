@@ -225,17 +225,14 @@ Sprint | Previsão | Status| Histórico|
 ## Tecnologias Utilizadas
 
 <p align="center">   
- <a href="https://www.atlassian.com/software/jira"><img src="./imagens_git/Jira Software.svg" width="20%" height="20%"/>
-</p>
- 
-<p align="center">    
+ <a href="https://www.atlassian.com/software/jira"><img src="./imagens_git/logo-jira.png" width="7%" height="7%"/></a>
  <a href="https://www.python.org/"><img src="./imagens_git/logo-python.png" width="8%" height="8%"/></a>
- <a href="https://jupyter.org/"><img src="./imagens_git/Jupyter.svg" width="15%" height="15%"/></a>
+ <a href="https://jupyter.org/"><img src="./imagens_git/logo-googlecolab.png" width="8%" height="8%"/></a>
 </p>
-
 <p align="center">    
- <a href="https://powerbi.microsoft.com/pt-br/"><img src="./imagens_git/Microsoft Power BI.svg" width="20%" height="20%"/></a>
- <a href="https://posit.co/download/rstudio-desktop/"><img src="./imagens_git/RStudio.svg" width="15%" height="15%"/></a>
+ <a href="https://powerbi.microsoft.com/pt-br/"><img src="./imagens_git/logo-powerbi.png" width="7%" height="7%"/></a>
+ <a href="https://posit.co/download/rstudio-desktop/"><img src="./imagens_git/logo-rstudio.png" width="7%" height="7%"/></a>
+ <a href="https://posit.co/download/rstudio-desktop/"><img src="./imagens_git/logo-slack.png" width="7%" height="7%"/></a>
 </p>
 
 <p align="right">(<a href="#sumário">voltar ao topo</a>)</p>
