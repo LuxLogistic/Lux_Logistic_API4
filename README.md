@@ -1,261 +1,248 @@
-# Aprendizado por Projeto Integrado (API) 
+# ANÁLISE DO SISTEMA PORTUÁRIO E PROJEÇÃO DA PRODUTIVIDADE DOS SHIPLOADERS
 
+> Este projeto visa otimizar a operação de terminais portuários através da análise de dados históricos e do desenvolvimento de modelos preditivos, trazendo insights críticos para a eficiência dos processos e competitividade dos portos.
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
-
-# Índice
-
-* [Projeto](#projeto-template)
-* [Equipe](#equipe)
-* [Objetivo do Projeto](#objetivo-do-projeto)
-* [Sprints](#Sprints)
-* [Burndown](#Burndown)
-* [Backlog do produto](#Backlog-do-produto)
-* [Funcionalidades e registros (vídeos e apresentações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
-* [Competências desenvolvidas](#competências-desenvolvidas)
-
-
-# Projeto (API) 
-Este projeto tem como objetivo a análise. identificação e compreenção da eficiência operacional de terminais portuários ao longo de um período significativo, com foco específico na movimentação de granéis.
-
-
-
-# Equipe
-|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  Product Owner| Rebeca Abreu |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rebeca-fonseca-0615a1277) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/rebecafonsec4)     |
-|  Scrum Master  | Jessica Tinoco|         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-tinoco-534589235/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/jehbernardo)          |
-|   Team Member  | João Pedro               |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-cardoso-de-oliveira-a1a64a1a1) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoCardoli)        |
-|  Team Member|  Elaine Gonçalves     |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elaine-gon%C3%A7alves-41111b253) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ElaineGoncalves1)              |
-|  Team Member  | Joyce Prudêncio                |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-prudencio) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JPrudencio)   |
-|  Team Member  | Vitor Ávila       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-%C3%A1vila-16418339) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/vitor-avila-github/vitor-avila-github)          |
-|  Team Member  |   Vitor Hugo    |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/vitor-hugo-caetano-das-merc%C3%AAs-195823137) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/vhsjc)          |
-|  Team Member  |   Nicolli Paparazo    |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicolli-paparazo-b6a360261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/nicollipaparazo)          |
-
-# Objetivo do Projeto
-Criar base de dados relacional e Dashboard que permita a vizualização de:
-
-* (i) Variação da prancha média operacional de carregamento de granéis (t/h) mensalmente ao longo dos anos de 2014 a 2023, desenvolvendo um modelo de projeção com base em tendência
-
-* (ii) Avaliação da distribuição estatística dos tempos portuários de operação no berço para carregamento de granéis
-
-* (iii) Elaboração de um ranking de eficiência para os 10 principais terminais de movimentação de graneis com base em quantidade de berços e prancha média operacional
-
-
-## Tecnologias Utilizadas
-
- ### Tecnologias Específicas/Apoio
- > 5W2H
-> 
->JiraSoftware
-> 
-> PowerBi
-> 
-> GitHub
+<p align="center"> 
+API 4° Semestre - Logística Noturno
+</p> 
   
- ### Tecnologias da Informação
- > Pacote Office
+<p align="center">   
+ <img src="https://img.shields.io/badge/Status%3A-ANDAMENTO-green"/>
+ <a href="http://fatecsjc-prd.azurewebsites.net/"><img src="https://img.shields.io/badge/Instituição%3A-FATEC-red"/></a>
+</p>
 
-# Sprints
+## Sumário
+
+:small_blue_diamond: [Aprendizado por Projeto Integrado (API)](#aprendizado-por-projeto-integrado-api)  
+:small_blue_diamond: [Equipe](#equipe)  
+:small_blue_diamond: [Descrição do Projeto](#descrição-do-projeto)  
+:small_blue_diamond: [Backlog do Produto](#backlog-do-produto)  
+:small_blue_diamond: [Sprints](#Sprints)  
+:small_blue_diamond: [Burndown](#Burndown)  
+:small_blue_diamond: [Backlog do produto](#Backlog-do-produto)  
+:small_blue_diamond: [Funcionalidades e registros (vídeos e apresentações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)  
+:small_blue_diamond: [Competências desenvolvidas](#competências-desenvolvidas)  
+
+## Aprendizado por Projeto Integrado (API) 
+A Aprendizagem por Projetos Integrados (API) é uma metodologia de ensino em implantação na Fatec São José dos Campos, desenhada para aprimorar o aprendizado prático e desenvolver habilidades essenciais nos estudantes. Baseada nos princípios ágeis do framework **SCRUM**, a API foca na criação de um ambiente de aprendizado onde a **Proatividade**, **Autonomia**, **Colaboração** e **Entrega de Resultados** são estimulados e fortalecidos.
+
+### Pilares da Metodologia API
+A API é construída sobre três pilares fundamentais:
+1. **Real Problem Based Learning (rPBL):** Adota o aprendizado baseado em problemas reais, onde os estudantes trabalham em projetos com situações concretas e desafiadoras, preparando-os para o mercado de trabalho.
+2. **Validação Externa:** Valoriza a validação dos resultados por profissionais e especialistas externos, trazendo uma visão prática e crítica que auxilia os estudantes a alinhar o que aprendem com o que é realmente esperado na prática profissional.
+3. **Mindset Ágil (Agile):** Utiliza práticas ágeis para a gestão e desenvolvimento dos projetos, incentivando um pensamento flexível, adaptável e orientado a resultados.
+
+### Objetivos
+A API busca criar uma experiência educacional dinâmica e envolvente, promovendo o desenvolvimento de habilidades fundamentais para o mercado de trabalho atual. Através do uso de SCRUM, os estudantes experimentam uma metodologia de trabalho colaborativa e iterativa, essencial para atender demandas complexas e em constante mudança.
+
+<p align="right">(<a href="#sumário">voltar ao topo</a>)</p>
+
+## Equipe
+
+|            							| Aluno         | Função | LinkedIn & GitHub          		
+| -------------------------------------------- | ---------------- | ---------------- |  ----------------
+| <img src = "./imagens_git/jessica.jpeg" width="50" >|__Rebeca Abreu__  | *Product Owner*  | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rebeca-fonseca-0615a1277) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/rebecafonsec4)
+| <img src = "./imagens_git/giovani.png" width="60" >|__Jessica Tinoco__| *Scrum Master* | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-tinoco-534589235/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/jehbernardo)
+| <img src = "./imagens_git/andre.jfif" width="60" >|__João Pedro__  | *Developer Team*  | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-cardoso-de-oliveira-a1a64a1a1) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoCardoli)
+| <img src = "./imagens_git/larissa.png" width="60" >|__Elaine Gonçalves__  | *Developer Team* | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elaine-gon%C3%A7alves-41111b253) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ElaineGoncalves1)
+| <img src = "./imagens_git/manu.png" width="60" >|__Joyce Prudêncio__ | *Developer Team* | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-prudencio) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JPrudencio)
+| <img src = "./imagens_git/manu.png" width="60" >|__Vitor Ávila__ | *Developer Team* | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-%C3%A1vila-16418339) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/vitor-avila-github/vitor-avila-github)
+| <img src = "./imagens_git/manu.png" width="60" >|__Vitor Hugo__ | *Developer Team* | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/vitor-hugo-caetano-das-merc%C3%AAs-195823137) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/vhsjc)
+| <img src = "./imagens_git/manu.png" width="60" >|__Nicolli Paparazo__ | *Developer Team* | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicolli-paparazo-b6a360261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/nicollipaparazo)
+
+<p align="right">(<a href="#top">voltar ao topo</a>)</p>
+
+## Descrição do Projeto
+
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/logogetlog.png" width="100%" height="100%">
+<p align="center">
+
+> A Análise do Sistema Portuário e Projeção da Produtividade dos Shiploaders tem como objetivo investigar a produtividade de carregadores de navios (shiploaders) e fornecer uma ferramenta que auxilie na análise para tomada de decisões estratégicas
+
+### Objetivo
+
+- **Análise de Dados Históricos (2014-2023):** Compilar e limpar dados das operações de carga a granel.
+- **Modelos Preditivos de Produtividade:** Criar modelos que possam prever a produtividade futura dos shiploaders.
+- **Ranking de Eficiência:** Classificar os 10 principais portos com base na capacidade operacional e na taxa de movimentação.
+
+### Funcionalidades
+
+- **Visualização de Dados:** Painel em Business Intelligence (BI) para monitoramento de métricas de desempenho operacional.
+- **Análise de Tendências:** Projeções da produtividade dos shiploaders ao longo do tempo.
+- **Ranking de Eficiência:** Classificação dos portos utilizando Análise Envoltória de Dados (DEA) para identificar os mais eficientes.
+
+### Indicadores de Desempenho (KPIs)
+
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/logogetlog.png" width="100%" height="100%">
+<p align="center">
+
+<p align="right">(<a href="#top">voltar ao topo</a>)</p>
+
+## Backlog do Produto
+
+Principais itens do backlog:
+
+1. **Agregação de Dados Históricos:** Coleta e formatação dos dados operacionais dos portos de 2014 a 2023.
+2. **Painel de Indicadores de Desempenho:** Desenvolvimento de uma interface para visualizar métricas como tempo de operação e produtividade.
+3. **Modelo de Produtividade dos Shiploaders:** Análise das taxas de movimentação e criação de modelos preditivos.
+4. **Ranking de Eficiência Portuária:** Análise e classificação dos 10 principais portos com base na eficiência.
+5. **Compartilhamento do Código:** Publicação do código no Google Colab para transparência e reprodutibilidade.
+
+### Requisitos Funcionais
+
+1. **Agregação de Dados Históricos**
+   - O sistema deve ser capaz de compilar dados operacionais dos portos de 2014 a 2023.
+   - Deve realizar a limpeza e formatação dos dados para análise posterior.
+2. **Painel de Indicadores de Desempenho (KPIs)**
+   - O sistema deve apresentar um painel de visualização que exiba os principais indicadores, como produtividade dos shiploaders, tempo médio de operação, tempo de espera e taxa de ociosidade.
+   - O painel deve permitir que o usuário selecione períodos específicos para análise detalhada.
+3. **Modelo de Produtividade dos Shiploaders**
+   - O sistema deve gerar projeções de produtividade dos shiploaders com base em dados históricos.
+4. **Ranking de Eficiência Portuária**
+   - O sistema deve classificar os 10 principais portos de acordo com eficiência operacional, utilizando Análise Envoltória de Dados (DEA).
+5. **Compartilhamento do Código no Google Colab**
+   - O código e as análises devem ser disponibilizados no Google Colab para fácil acesso e reprodutibilidade por outros usuários.
+
+## Requisitos Não Funcionais
+
+1. **Usabilidade**
+   - O painel de visualização de KPIs deve ser intuitivo, permitindo que usuários com pouco conhecimento técnico interpretem facilmente as métricas exibidas.
+   - O sistema deve seguir uma interface de design clara e de fácil navegação.
+2. **Segurança**
+   - A visualização dos dados deve ser restrita a usuários autorizados.
+3. **Compatibilidade**
+   - O sistema deve ser compatível com as principais ferramentas de visualização de dados (como Google Colab e BI Tools).
+   - A interface e funcionalidades devem ser acessíveis em diferentes navegadores e sistemas operacionais.
+
+### Entregáveis por Sprint
+
+| Período        | Entregável                                           |
+|----------------|------------------------------------------------------|
+| 27 Set – 18 Out | Série Histórica de Dados compilada e limpa (2014-2023) |
+| 18 Out – 08 Nov | Protótipo do Painel em BI com principais métricas    |
+| 08 Nov – 29 Nov | Modelo de Ranking de Eficiência usando DEA           |
+
+<p align="right">(<a href="#top">voltar ao topo</a>)</p>
+
+## Organização e Metodologia
+
+### Metodologia Aplicada
+
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/logogetlog.png" width="100%" height="100%">
+<p align="center">
+
+> Este projeto foi realizado conforme a metodologia ágil, utilizando o software Jira para a organização e acompanhamento das tarefas de cada membro da equipe; durante cada sprint, uma série de atividades eram designadas, com data de início e data limite, possibilitando a análise do tempo gasto em cada uma delas, e, do desempenho dos integrantes.
+
+### Cronograma e Sprints
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 02/09/2024 | Concluído| [Ver Relatório]() | 
-|Sprint 0| 27/09/2024 | Em andamento | [Ver Relatório]() | 
-|Sprint 1| 18/10/2024|Em breve |[Ver Relatório]() | 
-|Sprint 2| 08/11/2024 |Em breve |[Ver Relatório]() | 
+|Kick Off | 02/09/2024 | Concluído|| 
+|Sprint 1| 18/10/2024|Concluído |[Ver Relatório]() | 
+|Sprint 2| 08/11/2024 |Em Andamento |[Ver Relatório]() | 
 |Sprint 3| 29/11/2024 |Em breve |[Ver Relatório]()  | 
-|Feira de Soluções|12/12/2024 |Em breve |[Ver Relatório]() | 
-
-## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
-
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/LuxLogistic/projects/1)
-
-# Requisitos
-
-* Requisitos funcionais
-  
-> Construção de uma série histórica em formato acessível que agregue os dados de movimentação de 2014 a 2023
-> 
->Interface em BI para avaliação de indicadores portuários (tempos de processamento e espera, produção dos shiploaders em termos de processamento por hora)
->
->Modelo de projeção de tendência da produtividade dos shiploaders 
->
->Rankeamento dos portos por meio da aplicação do DEA
->
-
- 
-* Requisitos não funcionais
-
->Usar tecnologias especifícas/apoio/tecnológicas
->
->Metodologias ágil
->
->Power BI / Jira 
-  
-# Backlog do produto
-  
-<div align="center">
- 
- ### Requisitos funcionais
- ![sprint backlog]()
-
- ### Requisitos não funcionais
- ![sprint backlog]()
- 
-</div>
-
-# Backlog das Sprints
-
-<div align="center">
-
- ### 1ª - Sprint
- ![sprint backlog]()
-
- ### 2ª - Sprint
- ![sprint backlog]()
-
-### 3ª - Sprint
-![sprint backlog]()
-
-### 4ª - Sprint
-![sprint backlog]()
-
-### Backlog
-![sprint backlog]()
-
-</div>
-
-
-# Burndown
+|Feira de Soluções|12/12/2024 |Em breve || 
 
 <details>
+<summary>Sprint 01</summary>
 
+>Backlog
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/backlogsprint1.png" width="70%" height="30%">
+<p align="center">
+  
+>Burndown Chart
+
+_Por Tempo_
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/burndowm0102.PNG"  width="80%" height="40%">
+<p align="center">
+ 
+</details>
+
+<details>
+<summary>Sprint 02</summary>
+
+>Backlog
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/backlogsprint1.png" width="70%" height="30%">
+<p align="center">
+  
+>Burndown Chart
+
+_Por Tempo_
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/burndowm0102.PNG"  width="80%" height="40%">
+<p align="center">
+ 
+</details>
+
+<details>
+<summary>Sprint 03</summary>
+
+>Backlog
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/backlogsprint1.png" width="70%" height="30%">
+<p align="center">
+  
+>Burndown Chart
+
+_Por Tempo_
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/burndowm0102.PNG"  width="80%" height="40%">
+<p align="center">
+ 
+</details>
+
+## Resultado e Produto
+
+### MVP - Minimum Viable Product
+
+<details> 
 <summary> 1ª SPRINT </summary>
-
-![sprint backlog]()
-
-
-</details>
-
-<details>
- 
-<summary> 2ª SPRINT </summary>
-
- ![sprint backlog]()
-
-</details>
-
-<details>
- 
-<summary> 3ª SPRINT </summary>
-
-  ![sprint backlog]()
-
-</details>
-
-<details>
- 
-<summary> 4ª SPRINT </summary>
- 
- ![sprint backlog]()
-
-</details>
-
-
-## Sprint 1. Concepção
-- [x] Estrutura do backlog
-- [x] Delimitação de tarefas
-- [x] Atribuição de responsáveis pelas tarefas
-
-## Sprint 2. Desenvolvimento do Projeto
-- [x]  
-- [x] 
-      
-## Sprint 3. Implementação
-- [x] 
-- [x] 
-      
-## Sprint 4. Operacionalização
-- [x] 
-- [x] 
-
-# Funcionalidades e registros (vídeos e apresentações) das sprints
-
-Apresentação das funcionalidades - 
-Confira a seguir uma demonstração das funcionalidades 
-
-### MVP -  Minimum Viable Product - 
-
-<details>
- 
-<summary> 1ª SPRINT </summary>
-
-
-
-</details>
-
-<details>
- 
-<summary> 2ª SPRINT </summary>
-
 ![Nome do Vídeo]()
- 
-
 </details>
 
 <details>
- 
+<summary> 2ª SPRINT </summary>
+![Nome do Vídeo]()
+</details>
+
+<details>
 <summary> 3ª SPRINT </summary>
-
- ![Nome do Vídeo]()
-
-
- ![Nome do Vídeo]()
-
-
+![Nome do Vídeo]()
 </details>
 
-<details>
+## Tecnologias Utilizadas
+
+<p align="center">   
+ <a href="https://www.atlassian.com/software/jira"><img src="./imagens_git/Jira Software.svg" width="20%" height="20%"/>
+</p>
  
-<summary> 4ª SPRINT </summary>
- 
- ![Nome do Vídeo]()
- 
-</details>
+<p align="center">    
+ <a href="https://www.python.org/"><img src="./imagens_git/Python.svg" width="8%" height="8%"/></a>
+ <a href="https://jupyter.org/"><img src="./imagens_git/Jupyter.svg" width="15%" height="15%"/></a>
+</p>
+
+<p align="center">    
+ <a href="https://powerbi.microsoft.com/pt-br/"><img src="./imagens_git/Microsoft Power BI.svg" width="20%" height="20%"/></a>
+ <a href="https://posit.co/download/rstudio-desktop/"><img src="./imagens_git/RStudio.svg" width="15%" height="15%"/></a>
+</p>
+
+<p align="right">(<a href="#top">voltar ao topo</a>)</p>
 
 
 
 
-# Competências desenvolvidas
-
-## Hard Skill (saber tecnológico)
-<details>
-<summary>Hard Skills desenvolvidas</summary>
-  
-| Tecnologia/Metodologia | Classificação |
-| ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Markdown | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
- 
-</details>
-
-## Soft Skill (saber comportamental)
-<details>
-<summary>Soft Skills desenvolvidas</summary>
-
-| Habilidades | Classificação |
-| ---------------------- | ------------- |
-| Colaboração | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Proatividade| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-
-</details>
