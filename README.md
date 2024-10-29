@@ -105,7 +105,7 @@ Principais itens do backlog:
 5. **Compartilhamento do Código no Google Colab**
    - O código e as análises devem ser disponibilizados no Google Colab para fácil acesso e reprodutibilidade por outros usuários.
 
-## Requisitos Não Funcionais
+### Requisitos Não Funcionais
 
 1. **Usabilidade**
    - O painel de visualização de KPIs deve ser intuitivo, permitindo que usuários com pouco conhecimento técnico interpretem facilmente as métricas exibidas.
@@ -116,7 +116,8 @@ Principais itens do backlog:
    - O sistema deve ser compatível com as principais ferramentas de visualização de dados (como Google Colab e BI Tools).
    - A interface e funcionalidades devem ser acessíveis em diferentes navegadores e sistemas operacionais.
 
-### Entregáveis por Sprint
+> [!NOTE]
+> **Entregáveis por Sprint**
 
 | Período        | Entregável                                           |
 |----------------|------------------------------------------------------|
@@ -198,6 +199,8 @@ Sprint | Previsão | Status| Histórico|
  
 </details>
 
+<p align="right">(<a href="#sumário">voltar ao topo</a>)</p>
+
 ## Resultado e Produto
 
 ### MVP - Minimum Viable Product
@@ -217,6 +220,8 @@ Sprint | Previsão | Status| Histórico|
 ![Nome do Vídeo]()
 </details>
 
+<p align="right">(<a href="#sumário">voltar ao topo</a>)</p>
+
 ## Tecnologias Utilizadas
 
 <p align="center">   
@@ -234,7 +239,3 @@ Sprint | Previsão | Status| Histórico|
 </p>
 
 <p align="right">(<a href="#sumário">voltar ao topo</a>)</p>
-
-
-
-
