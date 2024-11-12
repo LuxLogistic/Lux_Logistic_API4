@@ -144,7 +144,7 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 02/09/2024 | Concluído|| 
 |Sprint 1| 18/10/2024|Concluído |[Ver Relatório]() | 
-|Sprint 2| 08/11/2024 |Em Andamento |[Ver Relatório]() | 
+|Sprint 2| 08/11/2024 |Em Andamento |[Ver Relatório](https://github.com/LuxLogistic/Lux_Logistic_API4/blob/main/Task%20Oriented%20Documentation.docx) | 
 |Sprint 3| 29/11/2024 |Em breve |[Ver Relatório]()  | 
 |Feira de Soluções|12/12/2024 |Em breve || 
 
