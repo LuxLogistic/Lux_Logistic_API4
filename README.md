@@ -143,9 +143,9 @@ Principais itens do backlog:
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 02/09/2024 | Concluído|| 
-|Sprint 1| 18/10/2024|Concluído |[Ver Relatório]() | 
-|Sprint 2| 08/11/2024 |Em Andamento |[Ver Relatório](https://github.com/LuxLogistic/Lux_Logistic_API4/blob/main/Task%20Oriented%20Documentation.docx) | 
-|Sprint 3| 29/11/2024 |Em breve |[Ver Relatório]()  | 
+|Sprint 1| 18/10/2024|Concluído |[Ver Relatório](https://github.com/LuxLogistic/Lux_Logistic_API4/blob/main/Task%20Oriented%20Documentation.docx) | 
+|Sprint 2| 08/11/2024 |Concluído |[Ver Relatório](https://github.com/LuxLogistic/Lux_Logistic_API4/blob/main/Task%20Oriented%20Documentation.docx) | 
+|Sprint 3| 29/11/2024 |Em andamento |[Ver Relatório](https://github.com/LuxLogistic/Lux_Logistic_API4/blob/main/Task%20Oriented%20Documentation.docx)  | 
 |Feira de Soluções|12/12/2024 |Em breve || 
 
 <details>
@@ -212,7 +212,9 @@ Sprint | Previsão | Status| Histórico|
 
 <details>
 <summary> 2ª SPRINT </summary>
-![Nome do Vídeo]()
+
+[📹 Assista ao vídeo da 2ª Sprint](videos_mvp/mvp-sprint2c.mp4)
+
 </details>
 
 <details>
