@@ -207,19 +207,25 @@ Sprint | Previsão | Status| Histórico|
 
 <details> 
 <summary> 1ª SPRINT </summary>
-![Nome do Vídeo]()
+
+![Nome do Vídeo](./mvp_sprints/mvp-sprint1.gif)
+
 </details>
 
 <details>
-<summary> 2ª SPRINT </summary>
-
-[📹 Assista ao vídeo da 2ª Sprint](videos_mvp/mvp-sprint2c.mp4)
+<summary> 2ª SPRINT </summary
+                      
+![Nome do Vídeo](./mvp_sprints/mvp-sprint2.gif)
 
 </details>
 
 <details>
 <summary> 3ª SPRINT </summary>
-![Nome do Vídeo]()
+
+![Nome do Vídeo](./mvp_sprints/mvp-sprint3_1.gif)
+
+![Nome do Vídeo](./mvp_sprints/mvp-sprint3_2.gif)
+
 </details>
 
 <p align="right">(<a href="#sumário">voltar ao topo</a>)</p>
